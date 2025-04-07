@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px) {
+    .responsavel {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .responsavel img {
+        width: 100%;
+        height: auto;
+    }
+    .responsavel h1 {
+        font-size: 24px;
+    }
+    .responsavel p {
+        font-size: 16px;
+    }
+    .responsavel .botao {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+    }
+}
