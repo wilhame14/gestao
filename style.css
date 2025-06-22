@@ -1,37 +1,41 @@
 
 * {/*comtrole principal */
     margin: 0;
-    padding: 0;
+        padding: 0;
     box-sizing: border-box;
 }
 
 body{/*control de la barra de navegacion*/
     font-family: 'Arial', sans-serif;
-    background-color: #e6d6d6;
-    color: #333;
+          background-color: #e6d6d6;
+        color: #333;
     line-height: 1.6;
 }
 .s{/*A teg (se referi a imagn da logo da s.s.s.markiting)*/
     height: 50;
-    width: 50px;
-    border-radius: 55%;
-    margin: 9px;
-    float: left;
+        width: 50px;
+        border-radius: 55%;
+       margin: 9px;
+     float: left;
     margin-top: 1%;
 }
 
 .sol{/*A teg sol ser referi a imagem do e=book com ser um bom vendedor*/
     height: 160px;
-    width: 110px;
-    float: left;
+        width: 110px;
+      float: left;
    margin-top: 1%;
 }
 
 .imagem{
     height: 950px;
-    width: 450px;
-    float: left;
+        width: 450px;
+     float: left;
     margin-top: 1%;
 }
-
+p{/*control de la barra de navegacion*/
+    margin: 10px 0;
+        padding: 0 20px;
+    font-size: 18px;
+}
    
