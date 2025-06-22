@@ -1,0 +1,19 @@
+.botao{/*comtrolhe do botão */
+    order: 20;
+    padding:20px 4px;
+       background-color: #e6d6d6;
+        border-radius: 10px;
+             border: 10px;
+        animation: 300ms ease-in-out;
+       font-style: 200px;
+    margin: 10px;
+   font-size: 20px;
+   color: aliceblue;
+}
+   
+.botao:hover{/*Animaçao do botão*/
+    transform: scale(1.05);
+        transition-delay: 10;
+        margin-bottom: 5px;
+   background-color: rgb(118, 120, 126);
+}
